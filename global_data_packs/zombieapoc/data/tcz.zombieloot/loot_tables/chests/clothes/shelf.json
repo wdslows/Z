@@ -1,0 +1,78 @@
+{
+    "pools": [
+      {
+        "name": "zombieloot:clothes_shelf",
+        "rolls": {
+          "min": 2,
+          "max": 4
+        },
+        "entries": [
+          {
+            "type": "item",
+            "name": "minecraft:feather",
+            "functions": [
+                {
+                  "function": "set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 4
+                  }
+                }
+            ],
+            "weight": 10
+          },
+          {
+            "type": "item",
+            "name": "minecraft:string",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ],
+            "weight": 10
+          },
+          {
+            "type": "item",
+            "name": "minecraft:leather",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 4
+                }
+              }
+            ],
+            "weight": 5
+          },
+          {
+            "type": "item",
+            "name": "minecraft:white_banner",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": {
+                  "min": 1,
+                  "max": 2
+                }
+              }
+            ],
+            "weight": 10
+          },
+          
+  
+          
+
+          {
+            "type": "item",
+            "name": "minecraft:air",
+            "weight": 20
+          }
+        ]
+      }
+    ]
+  }

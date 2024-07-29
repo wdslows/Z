@@ -1,0 +1,31 @@
+{
+  "MAINHAND": {
+    "minecraft:iron_axe": 600,
+    "minecraft:iron_sword": 775,
+    "minecraft:stone_axe": 600,
+    "minecraft:stone_sword": 804,
+    "minecraft:wooden_axe": 676,
+    "minecraft:wooden_sword": 831
+  },
+  "OFFHAND": {
+    "firstaid:bandage": 1222,
+    "firstaid:morphine": 1222,
+    "firstaid:plaster": 1222
+  },
+  "FEET": {
+    "minecraft:iron_boots": 839,
+    "minecraft:leather_boots": 932
+  },
+  "LEGS": {
+    "minecraft:iron_leggings": 839,
+    "minecraft:leather_leggings": 932
+  },
+  "CHEST": {
+    "minecraft:iron_chestplate": 839,
+    "minecraft:leather_chestplate": 932
+  },
+  "HEAD": {
+    "minecraft:iron_helmet": 839,
+    "minecraft:leather_helmet": 932
+  }
+}

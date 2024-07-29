@@ -1,0 +1,1 @@
+execute as @e[tag=shurikNPC,tag=!shurikMeetPlayers] at @s run tp @s ~ ~-2000 ~

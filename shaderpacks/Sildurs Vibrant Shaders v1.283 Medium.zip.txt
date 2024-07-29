@@ -1,0 +1,20 @@
+#Thu May 26 12:42:20 SAMT 2022
+animationSpeed=0.25
+Lens_Flares=true
+MB_strength=0.008
+minlight=0.014
+morningFog=true
+SSDO=true
+uFogDensity=55.0
+waves_amplitude=0.55
+Waving_Entities=false
+Waving_Fire=false
+Waving_Grass=false
+Waving_Lanterns=false
+Waving_Lava=false
+Waving_Leaves=false
+Waving_Lilypads=false
+Waving_Tallgrass=false
+Waving_Vines=false
+Waving_Water=false
+wFogDensity=25.0

@@ -1,0 +1,16 @@
+{
+	id: "ef50a373-2e70-482e-90a4-58443d7f448c"
+	type: "player"
+	player_name: "wdslows"
+	ranks: {
+		ef50a373-2e70-482e-90a4-58443d7f448c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "wdslows"
+		"ftbteams:color": "#595FFF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

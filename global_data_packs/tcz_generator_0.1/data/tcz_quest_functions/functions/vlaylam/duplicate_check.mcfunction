@@ -1,0 +1,1 @@
+execute as @e[tag=vlaylamNPC, tag=!vlaylamMeetPlayers] at @s run tp ~ ~-2000 ~

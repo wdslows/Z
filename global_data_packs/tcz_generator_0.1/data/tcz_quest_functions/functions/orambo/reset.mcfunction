@@ -1,0 +1,1 @@
+scoreboard players set @a tcz_orambo 0

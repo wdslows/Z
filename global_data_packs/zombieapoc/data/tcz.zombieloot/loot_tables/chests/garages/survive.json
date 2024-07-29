@@ -1,0 +1,145 @@
+{
+  "pools": [
+    {
+      "name": "zombieloot:garages_survive",
+      "rolls": {
+        "min": 2,
+        "max": 5
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:iron_pickaxe",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "firstaid:plaster",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ],
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "realistictorches:matchbox",
+          "weight": 20
+        },
+
+        {
+          "type": "item",
+          "name": "toughasnails:dirty_water_canteen",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 26
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:purified_water_canteen",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 13
+        },
+        {
+          "type": "item",
+          "name": "minecraft:bucket",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 13
+        },
+
+
+        {
+          "type": "item",
+          "name": "sophisticatedbackpacks:backpack",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:rain_collector",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "cgm:pistol",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ],
+          "weight": 2
+        },
+
+        
+        {
+          "type": "item",
+          "name": "minecraft:air",
+          "weight": 100
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "type": "condition",
+    "name": "easymobs",
+    "values": [
+      {
+        "factor": 1,
+        "value": "minecraft:zombie"
+      }
+    ]
+  },
+  {
+    "type": "condition",
+    "name": "hardmobs",
+    "values": [
+      {
+        "factor": 1,
+        "value": "mutantbeasts:mutant_zombie"
+      }
+    ]
+  },
+  {
+    "type": "condition",
+    "name": "chestloot",
+    "values": [
+      {
+        "factor": 8,
+        "value": "lostcities:chests/lostcitychest",
+        "range": "4,100"
+      },
+      {
+        "factor": 20,
+        "value": "lostcities:chests/raildungeonchest",
+        "inpart": "rail_dungeon1"
+      },
+      {
+        "factor": 1,
+        "value": "tcz.zombieloot:chests/hospital"
+      },
+      {
+        "factor": 1,
+        "value": "tcz.zombieloot:chests/ammunation"
+      },
+      {
+        "factor": 1,
+        "value": "tcz.zombieloot:chests/survivorpack"
+      },
+      {
+        "factor": 1,
+        "value": "tcz.zombieloot:chests/car"
+      }
+    ]
+  }
+]

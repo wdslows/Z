@@ -1,0 +1,100 @@
+{
+  "name": "minecraft:village/desert/town_centers",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "processors": "minecraft:mossify_20_percent",
+        "location": "tcz_generation:city/street/road/center/0",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "processors": "minecraft:mossify_20_percent",
+        "location": "tcz_generation:city/street/road/center/0_old",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 20,
+      "element": {
+        "processors": "minecraft:mossify_20_percent",
+        "location": "tcz_generation:city/street/road/center/1",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "processors": "minecraft:mossify_20_percent",
+        "location": "tcz_generation:city/street/road/center/1_old",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "processors": "minecraft:mossify_20_percent",
+        "location": "tcz_generation:other/gas_stations/gas_station_0",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "processors": "minecraft:mossify_20_percent",
+        "location": "tcz_generation:other/gas_stations/gas_station_1",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "processors": "minecraft:mossify_20_percent",
+        "location": "tcz_generation:other/airport/airport_0",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+
+
+    
+    {
+      "weight": 1,
+      "element": {
+        "processors": "minecraft:mossify_20_percent",
+        "location": "tcz_generation:other/tower/full",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "processors": "minecraft:mossify_20_percent",
+        "location": "tcz_generation:other/tower/broken0",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+
+    {
+      "weight": 15,
+      "element": {
+        "processors": "minecraft:mossify_20_percent",
+        "location": "tcz_generation:city/survivor_spot/orambo/level0",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

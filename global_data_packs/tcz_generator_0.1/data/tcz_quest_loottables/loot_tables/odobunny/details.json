@@ -1,0 +1,114 @@
+{
+  "pools": [
+    {
+      "name": "odobunny:details",
+      "rolls": {
+        "min": 8,
+        "max": 12
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "vehicle:wrench",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "vehicle:gas_pump",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{FluidName:\"vehicle:fuelium\",Amount:1000}}"
+            }
+          ],
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "vehicle:jerry_can",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "vehicle:jerry_can",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Fuel:1000}"
+            }
+          ],
+          "weight": 8
+        },
+        {
+          "type": "item",
+          "name": "vehicle:jerry_can",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Fuel:2000}"
+            }
+          ],
+          "weight": 6
+        },
+        {
+          "type": "item",
+          "name": "vehicle:jerry_can",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Fuel:3000}"
+            }
+          ],
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "vehicle:jerry_can",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Fuel:4000}"
+            }
+          ],
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_nugget",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ],
+          "weight": 25
+        },
+
+        
+
+        {
+          "type": "item",
+          "name": "minecraft:air",
+          "weight": 70
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+execute if score #is_enabling_duplicates tcz_quest_data matches 0 run function tcz_quest_functions:vlaylam/duplicate_check

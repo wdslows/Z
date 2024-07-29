@@ -1,0 +1,1 @@
+execute if score #is_enabling_duplicates tcz_quest_data matches 0 run execute as @e[tag=odobunnyNPC, tag=!odobunnyMeetPlayers] at @s run tp ~ ~-2000 ~
