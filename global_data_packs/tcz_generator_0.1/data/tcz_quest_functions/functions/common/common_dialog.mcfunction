@@ -1,1 +1,0 @@
-#stopsound @s voice

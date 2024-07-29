@@ -6,25 +6,55 @@
     0,
     0
   ],
-  "windowBorder": [
+  "windowBorderActive": [
     0,
     0,
     0
+  ],
+  "windowBorderInactive": [
+    50,
+    50,
+    50
   ],
   "windowBackground": [
     0,
     0,
     0
   ],
-  "tabBorder": [
-    0,
-    0,
-    0
-  ],
-  "tabSideInactive": [
+  "elementButtonBackgroundInactive": [
     50,
     50,
     50
+  ],
+  "elementButtonBackgroundActive": [
+    50,
+    50,
+    50
+  ],
+  "elementButtonBackgroundHover": [
+    50,
+    50,
+    50
+  ],
+  "elementButtonBorder": [
+    50,
+    50,
+    50
+  ],
+  "elementButtonClick": [
+    30,
+    30,
+    30
+  ],
+  "elementButtonToggle": [
+    50,
+    50,
+    50
+  ],
+  "elementButtonToggleHover": [
+    40,
+    40,
+    40
   ],
   "elementInputBackgroundInactive": [
     0,
@@ -51,100 +81,85 @@
     30,
     30
   ],
-  "elementButtonBackgroundInactive": [
+  "elementListBorder": [
     50,
     50,
     50
   ],
-  "elementButtonBackgroundHover": [
-    40,
-    40,
-    40
-  ],
-  "elementButtonBorder": [
+  "elementListItemBorder": [
     50,
     50,
     50
   ],
-  "elementButtonClick": [
+  "elementListItemBackground": [
+    50,
+    50,
+    50
+  ],
+  "elementListItemBackgroundSelect": [
     30,
     30,
     30
   ],
-  "elementButtonToggle": [
-    50,
-    50,
-    50
-  ],
-  "elementButtonToggleHover": [
+  "elementListItemBackgroundHover": [
     40,
     40,
     40
   ],
-  "elementProjectTabActive": [
+  "elementTabHover": [
     50,
     50,
     50
   ],
-  "elementProjectTabHover": [
-    40,
-    40,
-    40
+  "elementTabBackgroundActive": [
+    50,
+    50,
+    50
   ],
-  "elementProjectTabFont": [
-    60,
-    60,
-    60
-  ],
-  "elementProjectTabFontChanges": [
+  "elementTabBorderActive": [
     255,
     255,
     255
   ],
-  "elementTreeBorder": [
+  "elementTabBackgroundInactive": [
     50,
     50,
     50
   ],
-  "elementTreeScrollBar": [
-    50,
-    50,
-    50
-  ],
-  "elementTreeScrollBarBorder": [
-    50,
-    50,
-    50
-  ],
-  "elementTreeItemBorder": [
-    50,
-    50,
-    50
-  ],
-  "elementTreeItemBg": [
-    50,
-    50,
-    50
-  ],
-  "elementTreeItemBgSelect": [
-    30,
-    30,
-    30
-  ],
-  "elementTreeItemBgHover": [
+  "elementTabBorderInactive": [
     40,
     40,
     40
   ],
-  "fontChat": [
-    255,
-    255,
-    255
+  "elementScrollBar": [
+    50,
+    50,
+    50
+  ],
+  "elementScrollBarBorder": [
+    50,
+    50,
+    50
+  ],
+  "elementScrollBarBackground": [
+    50,
+    50,
+    50
   ],
   "font": [
     255,
     255,
     255
+  ],
+  "fontLight": [
+    255,
+    255,
+    255
+  ],
+  "fontMid": [
+    40,
+    40,
+    40
   ],
   "fontDim": [
     150,

@@ -1,187 +1,170 @@
 {
   "name": "Blue & Orange",
   "author": "ASolvie",
-  //Done
   "workspaceBackground": [
     255,
     204,
     94
   ],
-  //Done
-  "windowBorder": [
+  "windowBorderActive": [
     0,
     128,
     225
   ],
-  //Done
+  "windowBorderInactive": [
+    0,
+    150,
+    225
+  ],
   "windowBackground": [
     255,
     136,
     34
   ],
-  //Done
-  "tabBorder": [
-    0,
-    128,
-    225
-  ],
- 
-  //Done
-  "tabSideInactive": [
-    0,
-    128,
-    225
-  ],
-  //Done
-  "elementInputBackgroundInactive": [
-    255,
-    100,
-    60
-  ],
-  //Done
-  "elementInputBackgroundHover": [
-    255,
-    174,
-    70
-  ],
-  //Done
-  "elementInputBorder": [
-    0,
-    128,
-    225
-  ],
-  //Done
-  "elementInputUpDownHover": [
-    68,
-    156,
-    223
-  ],
-  //Done
-  "elementInputUpDownClick": [
-    0,
-    0,
-    225
-  ],
-  //Done
   "elementButtonBackgroundInactive": [
     255,
     100,
     60
   ],
-  //Done
-  "elementButtonBackgroundHover": [
+  "elementButtonBackgroundActive": [
     255,
-    174,
-    70
+    100,
+    60
   ],
-  //Done
+  "elementButtonBackgroundHover": [
+    0,
+    128,
+    225
+  ],
   "elementButtonBorder": [
     0,
     150,
     225
   ],
-  //Done
   "elementButtonClick": [
     255,
     100,
     0
   ],
-  //Done
   "elementButtonToggle": [
     255,
     144,
     30
   ],
-  //Done
   "elementButtonToggleHover": [
     255,
     200,
     82
   ],
-  //Done
-  "elementProjectTabActive": [
+  "elementInputBackgroundInactive": [
     255,
     100,
     60
   ],
-  //Done
-  "elementProjectTabHover": [
-    100,
-    100,
-    100
-  ],
-  //Done
-  "elementProjectTabFont": [
-    140,
-    140,
-    140
-  ],
-  //Done
-  "elementProjectTabFontChanges": [
+  "elementInputBackgroundHover": [
     255,
+    174,
+    70
+  ],
+  "elementInputBorder": [
+    0,
+    128,
+    225
+  ],
+  "elementInputUpDownHover": [
+    68,
+    156,
+    223
+  ],
+  "elementInputUpDownClick": [
+    0,
+    0,
+    225
+  ],
+  "elementListBorder": [
+    0,
+    128,
+    225
+  ],
+  "elementListItemBorder": [
+    0,
+    128,
+    225
+  ],
+  "elementListItemBackground": [
     255,
-    255
-  ],
-  //Done
-  "elementTreeBorder": [
-    0,
-    128,
-    225
-  ],
-    //Done
-  "elementTreeScrollBar": [
-    34,
-    34,
-    34
-  ],
-  //Done
-  "elementTreeScrollBarBorder": [
-    0,
-    128,
-    225
-  ],
-  //Done
-  "elementTreeItemBorder": [
-    0,
-    128,
-    225
-  ],
-  //Done
-  "elementTreeItemBg": [
-    60,
-    60,
+    100,
     60
   ],
-  //Done
-  "elementTreeItemBgSelect": [
+  "elementListItemBackgroundSelect": [
     255,
     162,
     98
   ],
-  //Done
-  "elementTreeItemBgHover": [
+  "elementListItemBackgroundHover": [
     255,
     120,
     120
   ],
-  //Done
-  "fontChat": [
-    255,
-    190,
-    120
+  "elementTabHover": [
+    0,
+    128,
+    225
   ],
-  //Done
+  "elementTabBackgroundActive": [
+    255,
+    100,
+    60
+  ],
+  "elementTabBorderActive": [
+    0,
+    128,
+    225
+  ],
+  "elementTabBackgroundInactive": [
+    255,
+    136,
+    34
+  ],
+  "elementTabBorderInactive": [
+    0,
+    150,
+    225
+  ],
+  "elementScrollBar": [
+    255,
+    136,
+    34
+  ],
+  "elementScrollBarBorder": [
+    0,
+    128,
+    225
+  ],
+  "elementScrollBarBackground": [
+    0,
+    128,
+    225
+  ],
   "font": [
     255,
     255,
     255
   ],
-  //Done
+  "fontLight": [
+    255,
+    190,
+    120
+  ],
+  "fontMid": [
+    255,
+    200,
+    82
+  ],
   "fontDim": [
     255,
     224,
     0
   ],
-  //Done
   "workspaceBlock": "minecraft:light_blue_wool"
 }

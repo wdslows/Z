@@ -6,49 +6,12 @@
 	exhaustion_threshold = 8.0
 
 [drink_options]
-	#Hydration restored from drinking with hands.
-	#Range: 0.0 ~ 1.7976931348623157E308
-	hand_drinking_hydration = 0.1
 	#Thirst restored from drinking with hands.
 	#Range: 0 ~ 20
 	hand_drinking_thirst = 1
-
-	#Effects of drinks from Vanilla, Tough As Nails and other mods.
-	[[drink_options.drink_entries]]
-		poison_chance = 0.25
-		thirst = 2
-		hydration = 0.2
-		location = "minecraft:potion"
-
-	[[drink_options.drink_entries]]
-		poison_chance = 0.75
-		thirst = 1
-		hydration = 0.1
-		location = "toughasnails:dirty_water_bottle"
-
-	[[drink_options.drink_entries]]
-		poison_chance = 0.75
-		thirst = 1
-		hydration = 0.1
-		location = "toughasnails:dirty_water_canteen"
-
-	[[drink_options.drink_entries]]
-		poison_chance = 0.0
-		thirst = 3
-		hydration = 0.4
-		location = "toughasnails:purified_water_bottle"
-
-	[[drink_options.drink_entries]]
-		poison_chance = 0.0
-		thirst = 3
-		hydration = 0.4
-		location = "toughasnails:purified_water_canteen"
-
-	[[drink_options.drink_entries]]
-		poison_chance = 0.25
-		thirst = 2
-		hydration = 0.2
-		location = "toughasnails:water_canteen"
+	#Hydration restored from drinking with hands.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	hand_drinking_hydration = 0.1
 
 [biome_options]
 
@@ -58,15 +21,7 @@
 		type = "DIRTY"
 
 	[[biome_options.biome_water_entries]]
-		location = "minecraft:swamp_hills"
-		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
 		location = "minecraft:mushroom_fields"
-		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
-		location = "minecraft:mushroom_field_shore"
 		type = "DIRTY"
 
 	[[biome_options.biome_water_entries]]
@@ -74,19 +29,7 @@
 		type = "DIRTY"
 
 	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:bayou_mangrove"
-		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:dead_swamp"
-		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:deep_bayou"
-		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:fungal_field"
+		location = "biomesoplenty:bog"
 		type = "DIRTY"
 
 	[[biome_options.biome_water_entries]]
@@ -98,47 +41,15 @@
 		type = "DIRTY"
 
 	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:jade_cliffs"
+		location = "biomesoplenty:marsh"
 		type = "DIRTY"
 
 	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:jade_grassland"
-		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:ominous_mire"
+		location = "biomesoplenty:muskeg"
 		type = "DIRTY"
 
 	[[biome_options.biome_water_entries]]
 		location = "biomesoplenty:ominous_woods"
-		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:overgrown_fungal_jungle"
-		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:rainforest"
-		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:rainforest_cliffs"
-		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:rainforest_floodplain"
-		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:silkglade"
-		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:silkglade_nest"
-		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:tundra_bog"
 		type = "DIRTY"
 
 	[[biome_options.biome_water_entries]]
@@ -158,16 +69,8 @@
 		type = "DIRTY"
 
 	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:wetland_marsh"
-		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
 		location = "biomesoplenty:wooded_wasteland"
 		type = "DIRTY"
-
-	[[biome_options.biome_water_entries]]
-		location = "biomesoplenty:alps"
-		type = "PURIFIED"
 
 	[[biome_options.biome_water_entries]]
 		location = "biomesoplenty:rainbow_hills"

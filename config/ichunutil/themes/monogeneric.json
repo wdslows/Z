@@ -1,181 +1,166 @@
 {
   "name": "MonoGeneric",
   "author": "Arcaratus",
-  //Done
   "workspaceBackground": [
     200,
     200,
     200
   ],
-  //Done
-  "windowBorder": [
+  "windowBorderActive": [
     0,
     0,
     0
   ],
-  //Done
+  "windowBorderInactive": [
+    180,
+    180,
+    180
+  ],
   "windowBackground": [
     50,
     50,
     50
   ],
-  //Done
-  "tabBorder": [
-    10,
-    10,
-    10
-  ],
-  //Done
-  "tabSideInactive": [
-    70,
-    70,
-    70
-  ],
-  //Done
-  "elementInputBackgroundInactive": [
-    75,
-    75,
-    75
-  ],
-  //Done
-  "elementInputBackgroundHover": [
-    100,
-    100,
-    100
-  ],
-  //Done
-  "elementInputBorder": [
-    0,
-    0,
-    0
-  ],
-  //Done
-  "elementInputUpDownHover": [
-    100,
-    100,
-    100
-  ],
-  //Done
-  "elementInputUpDownClick": [
-    140,
-    140,
-    140
-  ],
-  //Done
   "elementButtonBackgroundInactive": [
     80,
     80,
     80
   ],
-  //Done
-  "elementButtonBackgroundHover": [
-    130,
-    130,
-    130
+  "elementButtonBackgroundActive": [
+    80,
+    80,
+    80
   ],
-  //Done
+  "elementButtonBackgroundHover": [
+    20,
+    20,
+    20
+  ],
   "elementButtonBorder": [
     180,
     180,
     180
   ],
-  //Done
   "elementButtonClick": [
     160,
     160,
     160
   ],
-  //Done
   "elementButtonToggle": [
     190,
     190,
     190
   ],
-  //Done
   "elementButtonToggleHover": [
     170,
     170,
     170
   ],
-  //Done
-  "elementProjectTabActive": [
-    190,
-    190,
-    190
+  "elementInputBackgroundInactive": [
+    75,
+    75,
+    75
   ],
-  //Done
-  "elementProjectTabHover": [
-    150,
-    150,
-    150
+  "elementInputBackgroundHover": [
+    100,
+    100,
+    100
   ],
-  //Done
-  "elementProjectTabFont": [
-    255,
-    255,
-    255
+  "elementInputBorder": [
+    0,
+    0,
+    0
   ],
-  //Done
-  "elementProjectTabFontChanges": [
-    255,
-    255,
-    255
+  "elementInputUpDownHover": [
+    100,
+    100,
+    100
   ],
-  //Done
-  "elementTreeBorder": [
+  "elementInputUpDownClick": [
+    140,
+    140,
+    140
+  ],
+  "elementListBorder": [
     20,
     20,
     20
   ],
-  //Done
-  "elementTreeScrollBar": [
-    60,
-    60,
-    60
-  ],
-  //Done
-  "elementTreeScrollBarBorder": [
-    35,
-    35,
-    35
-  ],
-  //Done
-  "elementTreeItemBorder": [
+  "elementListItemBorder": [
     45,
     45,
     45
   ],
-  //Done
-  "elementTreeItemBg": [
+  "elementListItemBackground": [
     90,
     90,
     90
   ],
-  //Done
-  "elementTreeItemBgSelect": [
+  "elementListItemBackgroundSelect": [
     120,
     120,
     120
   ],
-  //Done
-  "elementTreeItemBgHover": [
+  "elementListItemBackgroundHover": [
     105,
     105,
     105
   ],
-  //Done
-  "fontChat": [
+  "elementTabHover": [
+    20,
+    20,
+    20
+  ],
+  "elementTabBackgroundActive": [
+    190,
+    190,
+    190
+  ],
+  "elementTabBorderActive": [
     255,
     255,
     255
   ],
-  //Done
+  "elementTabBackgroundInactive": [
+    60,
+    60,
+    60
+  ],
+  "elementTabBorderInactive": [
+    150,
+    150,
+    150
+  ],
+  "elementScrollBar": [
+    60,
+    60,
+    60
+  ],
+  "elementScrollBarBorder": [
+    35,
+    35,
+    35
+  ],
+  "elementScrollBarBackground": [
+    35,
+    35,
+    35
+  ],
   "font": [
     255,
     255,
     255
   ],
-  //Done
+  "fontLight": [
+    255,
+    255,
+    255
+  ],
+  "fontMid": [
+    170,
+    170,
+    170
+  ],
   "fontDim": [
     235,
     235,

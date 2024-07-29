@@ -1,1 +1,0 @@
-scoreboard players remove #stroll_timer tcz_odobunny 1

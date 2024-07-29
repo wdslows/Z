@@ -1,1 +1,0 @@
-execute at @s run data merge entity @e[tag=odobunnyNPC, limit=1, sort=nearest] {Weapons: [{Slot: 0b, id: "cgm:shotgun", Count: 1b, tag: {AmmoCount: 8}}]}

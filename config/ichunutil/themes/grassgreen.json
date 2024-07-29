@@ -1,181 +1,166 @@
 {
   "name": "GrassGreen",
   "author": "SizzlinBacen",
-  //Done
   "workspaceBackground": [
     183,
     255,
     183
   ],
-  //Done
-  "windowBorder": [
+  "windowBorderActive": [
     6,
     179,
     0
   ],
-  //Done
+  "windowBorderInactive": [
+    6,
+    179,
+    0
+  ],
   "windowBackground": [
     74,
     230,
     74
   ],
-  //Done
-  "tabBorder": [
-    74,
-    230,
-    74
-  ],
-  //Done
-  "tabSideInactive": [
-    70,
-    148,
-    70
-  ],
-  //Done
-  "elementInputBackgroundInactive": [
-    45,
-    209,
-    45
-  ],
-  //Done
-  "elementInputBackgroundHover": [
-    110,
-    225,
-    110
-  ],
-  //Done
-  "elementInputBorder": [
-    6,
-    179,
-    0
-  ],
-  //Done
-  "elementInputUpDownHover": [
-    7,
-    223,
-    0
-  ],
-  //Done
-  "elementInputUpDownClick": [
-    46,
-    188,
-    46
-  ],
-  //Done
   "elementButtonBackgroundInactive": [
     74,
     230,
     74
   ],
-  //Done
+  "elementButtonBackgroundActive": [
+    74,
+    230,
+    74
+  ],
   "elementButtonBackgroundHover": [
     6,
-    195,
+    179,
     0
   ],
-  //Done
   "elementButtonBorder": [
     6,
     179,
     0
   ],
-  //Done
   "elementButtonClick": [
     60,
     152,
     60
   ],
-  //Done
   "elementButtonToggle": [
     48,
     111,
     48
   ],
-  //Done
   "elementButtonToggleHover": [
     170,
     170,
     170
   ],
-  //Done
-  "elementProjectTabActive": [
-    74,
-    230,
-    74
+  "elementInputBackgroundInactive": [
+    45,
+    209,
+    45
   ],
-  //Done
-  "elementProjectTabHover": [
+  "elementInputBackgroundHover": [
+    110,
+    225,
+    110
+  ],
+  "elementInputBorder": [
+    6,
+    179,
+    0
+  ],
+  "elementInputUpDownHover": [
+    7,
+    223,
+    0
+  ],
+  "elementInputUpDownClick": [
     46,
     188,
     46
   ],
-  //Done
-  "elementProjectTabFont": [
-    255,
-    255,
-    255
-  ],
-  //Done
-  "elementProjectTabFontChanges": [
-    255,
-    255,
-    255
-  ],
-  //Done
-  "elementTreeBorder": [
+  "elementListBorder": [
     6,
     179,
     0
   ],
-  //Done
-  "elementTreeScrollBar": [
+  "elementListItemBorder": [
+    6,
+    179,
+    0
+  ],
+  "elementListItemBackground": [
     74,
     230,
     74
   ],
-  //Done
-  "elementTreeScrollBarBorder": [
-    6,
-    179,
-    0
-  ],
-  //Done
-  "elementTreeItemBorder": [
-    6,
-    179,
-    0
-  ],
-  //Done
-  "elementTreeItemBg": [
-    74,
-    230,
-    74
-  ],
-  //Done
-  "elementTreeItemBgSelect": [
+  "elementListItemBackgroundSelect": [
     60,
     152,
     60
   ],
-  //Done
-  "elementTreeItemBgHover": [
+  "elementListItemBackgroundHover": [
     46,
     188,
     46
   ],
-  //Done
-  "fontChat": [
-    0,
-    100,
+  "elementTabHover": [
+    6,
+    179,
     0
   ],
-  //Done
+  "elementTabBackgroundActive": [
+    74,
+    230,
+    74
+  ],
+  "elementTabBorderActive": [
+    255,
+    255,
+    255
+  ],
+  "elementTabBackgroundInactive": [
+    74,
+    230,
+    74
+  ],
+  "elementTabBorderInactive": [
+    46,
+    188,
+    46
+  ],
+  "elementScrollBar": [
+    74,
+    230,
+    74
+  ],
+  "elementScrollBarBorder": [
+    6,
+    179,
+    0
+  ],
+  "elementScrollBarBackground": [
+    6,
+    179,
+    0
+  ],
   "font": [
     255,
     255,
     255
   ],
-  //Done
+  "fontLight": [
+    0,
+    100,
+    0
+  ],
+  "fontMid": [
+    170,
+    170,
+    170
+  ],
   "fontDim": [
     225,
     225,

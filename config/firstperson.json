@@ -1,38 +1,24 @@
 {
-  "firstPerson": {
-    "enabledByDefault": false,
-    "xOffset": -5,
-    "sneakXOffset": 0,
-    "sitXOffset": 0,
-    "vanillaHands": false,
-    "doubleHands": false,
-    "playerHeadSkins": false,
-    "hideCosmeticsButton": false,
-    "forceActive": false
-  },
-  "paperDoll": {
-    "dollEnabled": false,
-    "location": "TOP_LEFT",
-    "dollXOffset": 0,
-    "dollYOffset": 0,
-    "dollSize": 0,
-    "dollLookingSides": 20,
-    "dollLookingUpDown": -20,
-    "dollHeadMode": "FREE"
-  },
-  "cosmetic": {
-    "hat": "VANILLA",
-    "head": "VANILLA",
-    "chest": "VANILLA",
-    "boots": "VANILLA",
-    "back": "VANILLA",
-    "playerSize": 100,
-    "modifyCameraHeight": false,
-    "backHue": 111
-  },
-  "skinLayer": {
-    "headLayerMode": "VANILLA2D",
-    "optimizedLayerDistance": 10,
-    "skinLayerMode": "VANILLA2D"
-  }
+  "configVersion": 2,
+  "enabledByDefault": true,
+  "xOffset": 0,
+  "sneakXOffset": 0,
+  "sitXOffset": 0,
+  "renderStuckFeatures": true,
+  "vanillaHandsMode": "OFF",
+  "dynamicMode": true,
+  "vanillaHandsSkipSwimming": true,
+  "autoVanillaHands": [
+    "create:potato_cannon",
+    "create:handheld_worldshaper",
+    "twilightforest:filled_ore_map",
+    "map_atlases:atlas",
+    "twilightforest:filled_magic_map",
+    "twilightforest:filled_maze_map",
+    "antiqueatlas:antique_atlas",
+    "create:extendo_grip"
+  ],
+  "autoToggleModItems": [
+    "exposure:camera"
+  ]
 }

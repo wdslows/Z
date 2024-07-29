@@ -1,1 +1,0 @@
-execute as @e[tag=oramboNPC,tag=!oramboMeetPlayers] at @s run tp @s ~ ~-2000 ~

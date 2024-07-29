@@ -1,2 +1,0 @@
-execute unless entity @e[tag=repairing_car,distance=0..3,sort=nearest,limit=1] run scoreboard players reset @s tcz_processing
-execute if entity @s[x_rotation=-90..-8,nbt={SelectedItem:{id:"vehicle:wrench"},Inventory:[{Slot:-106b,id:"minecraft:iron_ingot"}]},nbt=!{RootVehicle:{Entity:{Tags:["transport"]}}}] positioned ^ ^ ^0.5 run function tcz_fuel_filler:health/repair_system/get_look_loop

@@ -1,43 +1,170 @@
 {
   "name": "Aztec",
   "author": "LordFokas",
-  
-  "workspaceBackground": [8, 8, 8],
-  "windowBorder": [96, 96, 96],
-  "windowBackground": [48, 48, 48],
-  
-  "tabBorder": [0, 0, 0],
-  "tabSideInactive": [50, 50, 50],
-  
-  "elementInputBackgroundInactive": [32, 32, 32],
-  "elementInputBackgroundHover": [24, 24, 24],
-  "elementInputBorder": [96, 96, 96],
-  "elementInputUpDownHover": [64, 64, 64],
-  "elementInputUpDownClick": [48, 48, 48],
-  
-  "elementButtonBackgroundInactive": [32, 32, 32],
-  "elementButtonBackgroundHover": [24, 24, 24],
-  "elementButtonBorder": [96, 96, 96],
-  "elementButtonClick": [48, 48, 48],
-  "elementButtonToggle": [32, 32, 32],
-  "elementButtonToggleHover": [24, 24, 24],
-  
-  "elementProjectTabActive": [80, 80, 80],
-  "elementProjectTabHover": [64, 64, 64],
-  "elementProjectTabFont": [240, 240, 240],
-  "elementProjectTabFontChanges": [120, 120, 240],
-  
-  "elementTreeBorder": [192, 192, 192],
-  "elementTreeScrollBar": [32, 32, 32],
-  "elementTreeScrollBarBorder": [192, 192, 192],
-  "elementTreeItemBorder": [32, 32, 32],
-  "elementTreeItemBg": [32, 32, 32],
-  "elementTreeItemBgSelect": [12, 12, 12],
-  "elementTreeItemBgHover": [24, 24, 24],
-  
-  "fontChat": [240, 240, 240],
-  "font": [240, 240, 240],
-  "fontDim": [192, 192, 192],
-
+  "workspaceBackground": [
+    8,
+    8,
+    8
+  ],
+  "windowBorderActive": [
+    96,
+    96,
+    96
+  ],
+  "windowBorderInactive": [
+    96,
+    96,
+    96
+  ],
+  "windowBackground": [
+    48,
+    48,
+    48
+  ],
+  "elementButtonBackgroundInactive": [
+    32,
+    32,
+    32
+  ],
+  "elementButtonBackgroundActive": [
+    32,
+    32,
+    32
+  ],
+  "elementButtonBackgroundHover": [
+    192,
+    192,
+    192
+  ],
+  "elementButtonBorder": [
+    96,
+    96,
+    96
+  ],
+  "elementButtonClick": [
+    48,
+    48,
+    48
+  ],
+  "elementButtonToggle": [
+    32,
+    32,
+    32
+  ],
+  "elementButtonToggleHover": [
+    24,
+    24,
+    24
+  ],
+  "elementInputBackgroundInactive": [
+    32,
+    32,
+    32
+  ],
+  "elementInputBackgroundHover": [
+    24,
+    24,
+    24
+  ],
+  "elementInputBorder": [
+    96,
+    96,
+    96
+  ],
+  "elementInputUpDownHover": [
+    64,
+    64,
+    64
+  ],
+  "elementInputUpDownClick": [
+    48,
+    48,
+    48
+  ],
+  "elementListBorder": [
+    192,
+    192,
+    192
+  ],
+  "elementListItemBorder": [
+    32,
+    32,
+    32
+  ],
+  "elementListItemBackground": [
+    32,
+    32,
+    32
+  ],
+  "elementListItemBackgroundSelect": [
+    12,
+    12,
+    12
+  ],
+  "elementListItemBackgroundHover": [
+    24,
+    24,
+    24
+  ],
+  "elementTabHover": [
+    192,
+    192,
+    192
+  ],
+  "elementTabBackgroundActive": [
+    80,
+    80,
+    80
+  ],
+  "elementTabBorderActive": [
+    120,
+    120,
+    240
+  ],
+  "elementTabBackgroundInactive": [
+    32,
+    32,
+    32
+  ],
+  "elementTabBorderInactive": [
+    64,
+    64,
+    64
+  ],
+  "elementScrollBar": [
+    32,
+    32,
+    32
+  ],
+  "elementScrollBarBorder": [
+    192,
+    192,
+    192
+  ],
+  "elementScrollBarBackground": [
+    192,
+    192,
+    192
+  ],
+  "font": [
+    240,
+    240,
+    240
+  ],
+  "fontLight": [
+    240,
+    240,
+    240
+  ],
+  "fontMid": [
+    24,
+    24,
+    24
+  ],
+  "fontDim": [
+    192,
+    192,
+    192
+  ],
   "workspaceBlock": "minecraft:gray_wool"
 }

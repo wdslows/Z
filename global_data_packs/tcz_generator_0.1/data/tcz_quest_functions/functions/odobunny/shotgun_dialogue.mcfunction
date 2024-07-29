@@ -1,1 +1,0 @@
-scoreboard players set @s is_know_sg 1

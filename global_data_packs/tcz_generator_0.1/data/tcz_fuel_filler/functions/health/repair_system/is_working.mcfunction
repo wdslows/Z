@@ -1,1 +1,0 @@
-execute at @s unless entity @e[type=player,limit=4,sort=nearest,x_rotation=-90..-8,nbt={SelectedItem:{id:"vehicle:wrench"},Inventory:[{Slot:-106b,id:"minecraft:iron_ingot"}]},nbt=!{RootVehicle:{Entity:{Tags:["transport"]}}}] run tag @s remove car_repairing
